@@ -4335,61 +4335,645 @@
  "militiaCap": 20,
  "items": {
   "A1": {
-   "partial": true
+   "count": 2,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Scuba Fins",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A10": {
-   "partial": true
+   "count": 24,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mine",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 2
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 2
+    },
+    {
+     "name": ".38 S-Load",
+     "qty": 2
+    },
+    {
+     "name": ".45 Mag",
+     "qty": 1
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    },
+    {
+     "name": "TNT",
+     "qty": 1
+    },
+    {
+     "name": "9x19mm Mag 15",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 1
+    },
+    {
+     "name": "LAW",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A10_B1": {
-   "partial": true
+   "count": 29,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "7.62x39mm Mag 10 AP",
+     "qty": 2
+    },
+    {
+     "name": ".357 S-Load HP",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "KB Cutlass",
+     "qty": 1
+    },
+    {
+     "name": "AKS-47",
+     "qty": 1
+    },
+    {
+     "name": "Micro-Uzi",
+     "qty": 1
+    },
+    {
+     "name": "M870",
+     "qty": 1
+    },
+    {
+     "name": "SKS",
+     "qty": 1
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 1
+    },
+    {
+     "name": "5.45x39mm Mag 30 AP",
+     "qty": 1
+    },
+    {
+     "name": ".45 SMG Mag AP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A11": {
-   "partial": true
+   "count": 21,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm SMG Mag HP",
+     "qty": 2
+    },
+    {
+     "name": "12g Shells 7",
+     "qty": 2
+    },
+    {
+     "name": "Rock",
+     "qty": 2
+    },
+    {
+     "name": "AK-47",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Vest",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "5.45x39mm Mag 30 HP",
+     "qty": 1
+    },
+    {
+     "name": "MAC-10",
+     "qty": 1
+    },
+    {
+     "name": ".45 SMG Mag HP",
+     "qty": 1
+    },
+    {
+     "name": "Flak Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "40mm HE",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A12": {
-   "partial": true
+   "count": 5,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 3
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A14": {
-   "partial": true
+   "count": 1,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Exacto Knife",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A16_B1": {
-   "partial": true
+   "count": 12,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Silver",
+     "qty": 6
+    },
+    {
+     "name": "Gold",
+     "qty": 6
+    }
+   ],
+   "partial": false
   },
   "A2": {
-   "partial": true
+   "count": 10,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 8
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A4": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Scuba Fins",
+     "qty": 1
+    },
+    {
+     "name": "Extinguisher",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A8": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 3
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "M870",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "A9": {
-   "partial": true
+   "count": 28,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mk2 Grenade",
+     "qty": 3
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 3
+    },
+    {
+     "name": "TNT",
+     "qty": 3
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 2
+    },
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "Mine",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 2
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "MP5KA4",
+     "qty": 1
+    },
+    {
+     "name": "9x19mm SMG Mag",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Vest",
+     "qty": 1
+    },
+    {
+     "name": ".38 Special",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B1": {
-   "partial": true
+   "count": 2,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Gold",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "B10": {
-   "partial": true
+   "count": 3,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Letter Opener",
+     "qty": 1
+    },
+    {
+     "name": "Pepper Spray",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B11": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 4
+    },
+    {
+     "name": "Beretta 92F",
+     "qty": 1
+    },
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B12": {
-   "partial": true
+   "count": 10,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "12g Shells 4 BS",
+     "qty": 4
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Hedge Trimmer",
+     "qty": 1
+    },
+    {
+     "name": "FP6",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B13": {
-   "partial": true
+   "count": 34,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "1st Aid Kit",
+     "qty": 5
+    },
+    {
+     "name": "Hat",
+     "qty": 5
+    },
+    {
+     "name": "9x19mm SMG Mag",
+     "qty": 3
+    },
+    {
+     "name": ".38 S-Load HP",
+     "qty": 2
+    },
+    {
+     "name": ".357 S-Load",
+     "qty": 2
+    },
+    {
+     "name": "5.45x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 2
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "PM",
+     "qty": 1
+    },
+    {
+     "name": "Mini SAF",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Vest",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Helmet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B14": {
-   "partial": true
+   "count": 9,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 3
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "T-Shirt",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "Leather Jacket",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B15": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B2": {
-   "partial": true
+   "count": 33,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "TNT",
+     "qty": 5
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 3
+    },
+    {
+     "name": "Break Light",
+     "qty": 3
+    },
+    {
+     "name": ".45 SMG Mag",
+     "qty": 2
+    },
+    {
+     "name": "Shaped Charge",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "Rock",
+     "qty": 2
+    },
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Kevlar Vest",
+     "qty": 1
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B2_B1": {
    "count": 35,
@@ -4407,67 +4991,549 @@
      "name": "TNT",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "B4": {
-   "partial": true
+   "count": 5,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 5
+    }
+   ],
+   "partial": false
   },
   "B5": {
-   "partial": true
+   "count": 7,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "M4 Super 90",
+     "qty": 1
+    },
+    {
+     "name": "12g Box FL",
+     "qty": 1
+    },
+    {
+     "name": "Hedge Trimmer",
+     "qty": 1
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B6": {
-   "partial": true
+   "count": 4,
+   "weapons": true,
+   "notable": [
+    {
+     "name": ".38 S-Load",
+     "qty": 2
+    },
+    {
+     "name": ".38 Special",
+     "qty": 1
+    },
+    {
+     "name": "Hat",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B8": {
-   "partial": true
+   "count": 11,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 4
+    },
+    {
+     "name": "Dart",
+     "qty": 2
+    },
+    {
+     "name": "Throw. Knife",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Dart Gun",
+     "qty": 1
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B9": {
-   "partial": true
+   "count": 7,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 2
+    },
+    {
+     "name": "M24",
+     "qty": 1
+    },
+    {
+     "name": "7.62x51mm Bullets 5 HP",
+     "qty": 1
+    },
+    {
+     "name": "Hat",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Exacto Knife",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "B9_B1": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C1": {
-   "partial": true
+   "count": 3,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 2
+    },
+    {
+     "name": "Scuba Fins",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C11": {
-   "partial": true
+   "count": 5,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 4
+    },
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C13": {
-   "partial": true
+   "count": 33,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "T-Shirt",
+     "qty": 10
+    },
+    {
+     "name": "Med Kit",
+     "qty": 3
+    },
+    {
+     "name": "9x19mm SMG Mag AP",
+     "qty": 3
+    },
+    {
+     "name": "Money",
+     "qty": 3
+    },
+    {
+     "name": "12g Shells 4",
+     "qty": 3
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 1
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    },
+    {
+     "name": "MP5KA4",
+     "qty": 1
+    },
+    {
+     "name": "Shaped Charge",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Ithaca 37",
+     "qty": 1
+    },
+    {
+     "name": "Exacto Knife",
+     "qty": 1
+    },
+    {
+     "name": "LAW",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C15": {
-   "partial": true
-  },
-  "C2": {
-   "partial": true
+   "count": 2,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Commando",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C3": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Mini SAF",
+     "qty": 1
+    },
+    {
+     "name": "Smoke Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C4": {
-   "partial": true
+   "count": 7,
+   "weapons": true,
+   "notable": [
+    {
+     "name": ".45 Mag AP",
+     "qty": 3
+    },
+    {
+     "name": ".38 S-Load HP",
+     "qty": 1
+    },
+    {
+     "name": "9x19mm SMG Mag",
+     "qty": 1
+    },
+    {
+     "name": "9x19mm Mag 15",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Pants",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C5": {
-   "partial": true
+   "count": 23,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 4
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 3
+    },
+    {
+     "name": "9x19mm SMG Mag",
+     "qty": 2
+    },
+    {
+     "name": "Shaped Charge",
+     "qty": 2
+    },
+    {
+     "name": "Smoke Grenade",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Beretta 92F",
+     "qty": 1
+    },
+    {
+     "name": "Throw. Knife",
+     "qty": 1
+    },
+    {
+     "name": "MP5KA4",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "9x19mm Mag 15 AP",
+     "qty": 1
+    },
+    {
+     "name": "Five-seveN",
+     "qty": 1
+    },
+    {
+     "name": "SPAS-12",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C6": {
-   "partial": true
+   "count": 12,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 4
+    },
+    {
+     "name": "7.62x51mm Mag 20 HP",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Smoke Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 1
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 1
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "Balaclava",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C7": {
-   "partial": true
+   "count": 4,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 3
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C8": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Wallet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "C9": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "SA-24",
+     "qty": 1
+    },
+    {
+     "name": "AKMSU",
+     "qty": 1
+    },
+    {
+     "name": ".45 SMG Mag",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "KCB Knife",
+     "qty": 1
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 1
+    },
+    {
+     "name": "PPsh-41",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D1": {
-   "partial": true
+   "count": 1,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "XM8 Auto",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D13": {
-   "partial": true
+   "count": 35,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 5
+    },
+    {
+     "name": "TNT",
+     "qty": 4
+    },
+    {
+     "name": "Money",
+     "qty": 3
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 3
+    },
+    {
+     "name": "Steel Helmet",
+     "qty": 3
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "Dart",
+     "qty": 2
+    },
+    {
+     "name": ".40 Mag HP",
+     "qty": 2
+    },
+    {
+     "name": "M870",
+     "qty": 1
+    },
+    {
+     "name": "12g Shells 7",
+     "qty": 1
+    },
+    {
+     "name": "KCB Knife",
+     "qty": 1
+    },
+    {
+     "name": "Raging Bull 444",
+     "qty": 1
+    },
+    {
+     "name": ".44 S-Load HP",
+     "qty": 1
+    },
+    {
+     "name": "P226R .40",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D13_B1": {
    "count": 36,
@@ -4481,25 +5547,234 @@
      "name": "1st Aid Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "D15": {
-   "partial": true
+   "count": 31,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "7.62x25mm SMG Mag AP",
+     "qty": 3
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 2
+    },
+    {
+     "name": ".30 Car AP",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm SMG Mag",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm SMG Mag HP",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Vest",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Helmet",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "W-BDU Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Tw. Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Mini SAF",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D16": {
-   "partial": true
+   "count": 2,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mauser M-03",
+     "qty": 1
+    },
+    {
+     "name": "7.92x57mm Box HP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D2": {
-   "partial": true
+   "count": 46,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 3
+    },
+    {
+     "name": "7.62x51mm Bullets 5 AP",
+     "qty": 3
+    },
+    {
+     "name": "LAW",
+     "qty": 2
+    },
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm Mag 15 HP",
+     "qty": 2
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "40mm Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "Rock",
+     "qty": 2
+    },
+    {
+     "name": "Machete",
+     "qty": 1
+    },
+    {
+     "name": "AK-47",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D3": {
-   "partial": true
+   "count": 6,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 6
+    }
+   ],
+   "partial": false
   },
   "D4": {
-   "partial": true
+   "count": 6,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 6
+    }
+   ],
+   "partial": false
   },
   "D5": {
-   "partial": true
+   "count": 27,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 6
+    },
+    {
+     "name": "9x19mm SMG Mag AP",
+     "qty": 4
+    },
+    {
+     "name": "5.56x45mm Mag 30 HP",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm SMG Mag",
+     "qty": 2
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "TNT",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 1
+    },
+    {
+     "name": "12g Shells 7",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Kevlar Vest",
+     "qty": 1
+    },
+    {
+     "name": "Mini-14",
+     "qty": 1
+    },
+    {
+     "name": "Steel Helmet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D5_B1": {
    "count": 6,
@@ -4509,28 +5784,147 @@
      "name": "Money",
      "qty": 6
     }
-   ]
+   ],
+   "partial": false
   },
   "D6": {
-   "partial": true
+   "count": 2,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "94 Trapper",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D7": {
-   "partial": true
-  },
-  "D8": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 2
+    },
+    {
+     "name": ".45 Mag",
+     "qty": 1
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "D9": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Titanium Plating",
+     "qty": 1
+    },
+    {
+     "name": "T-Shirt",
+     "qty": 1
+    },
+    {
+     "name": "Leather Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Stechkin APS",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E1": {
-   "partial": true
-  },
-  "E10": {
-   "partial": true
+   "count": 16,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 6
+    },
+    {
+     "name": "9x19mm Mag 15 HP",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Gold",
+     "qty": 2
+    },
+    {
+     "name": "Beretta 92F",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E13": {
-   "partial": true
+   "count": 5,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 2
+    },
+    {
+     "name": "Flashbang",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Silver",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E13_B1": {
    "count": 33,
@@ -4548,7 +5942,8 @@
      "name": "TNT",
      "qty": 2
     }
-   ]
+   ],
+   "partial": false
   },
   "E13_B2": {
    "count": 17,
@@ -4586,31 +5981,229 @@
      "name": "7.62x39mm Mag 10 HP",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "E14": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E16": {
-   "partial": true
-  },
-  "E5": {
-   "partial": true
+   "count": 5,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "7.62x51mm Bullets 5 HP",
+     "qty": 2
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Sabre",
+     "qty": 1
+    },
+    {
+     "name": "M501",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E7": {
-   "partial": true
+   "count": 10,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 3
+    },
+    {
+     "name": "Flare",
+     "qty": 2
+    },
+    {
+     "name": "M870",
+     "qty": 1
+    },
+    {
+     "name": "Break Light",
+     "qty": 1
+    },
+    {
+     "name": "Leather Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Leg Protectors",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E8": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "E9": {
-   "partial": true
+   "count": 12,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Street Sweeper",
+     "qty": 1
+    },
+    {
+     "name": "12g Box BS",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Hedge Trimmer",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Silver",
+     "qty": 1
+    },
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F1": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "5.7mm Mag 50 AP",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 2
+    },
+    {
+     "name": "P90",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F10": {
-   "partial": true
+   "count": 27,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 5
+    },
+    {
+     "name": "Dart",
+     "qty": 4
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "12g Shells 7",
+     "qty": 2
+    },
+    {
+     "name": "Guardian Vest",
+     "qty": 2
+    },
+    {
+     "name": "Sawed-Off",
+     "qty": 2
+    },
+    {
+     "name": "SPAS-15",
+     "qty": 1
+    },
+    {
+     "name": "M870",
+     "qty": 1
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "M79",
+     "qty": 1
+    },
+    {
+     "name": "SPAS-12",
+     "qty": 1
+    },
+    {
+     "name": "TNT",
+     "qty": 1
+    },
+    {
+     "name": "Dart Gun",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F13_B2": {
    "count": 12,
@@ -4644,7 +6237,8 @@
      "name": "Med Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "F13_B3": {
    "count": 17,
@@ -4682,34 +6276,341 @@
      "name": "7.62x51mm Bullets 5 HP",
      "qty": 1
     }
-   ]
-  },
-  "F14": {
-   "partial": true
+   ],
+   "partial": false
   },
   "F2": {
-   "partial": true
-  },
-  "F4": {
-   "partial": true
+   "count": 32,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Spectra Helmet",
+     "qty": 5
+    },
+    {
+     "name": "40mm Thermobaric",
+     "qty": 4
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 3
+    },
+    {
+     "name": "Money",
+     "qty": 2
+    },
+    {
+     "name": "Smoke Shell",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "PG-7VM Rocket",
+     "qty": 2
+    },
+    {
+     "name": "Illumination Shell",
+     "qty": 1
+    },
+    {
+     "name": "40mm HE",
+     "qty": 1
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 1
+    },
+    {
+     "name": "40mm Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "40mm Smoke",
+     "qty": 1
+    },
+    {
+     "name": "RPG-16",
+     "qty": 1
+    },
+    {
+     "name": "FN EGLM",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F6": {
-   "partial": true
+   "count": 9,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "9x19mm SMG Mag M",
+     "qty": 2
+    },
+    {
+     "name": "SKS",
+     "qty": 1
+    },
+    {
+     "name": "Cobray M11/9",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "SAR",
+     "qty": 1
+    },
+    {
+     "name": "MR-96",
+     "qty": 1
+    },
+    {
+     "name": "9x19mm Box AP C",
+     "qty": 1
+    },
+    {
+     "name": "7.62x39mm Box AP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F7": {
-   "partial": true
+   "count": 8,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 7
+    },
+    {
+     "name": "Silver",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F8": {
-   "partial": true
+   "count": 33,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Med Kit",
+     "qty": 13
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 12
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Pants",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 1
+    },
+    {
+     "name": "Light Knife",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Pepper Spray",
+     "qty": 1
+    },
+    {
+     "name": "Letter Opener",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "F9": {
-   "partial": true
+   "count": 31,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mk2 Grenade",
+     "qty": 4
+    },
+    {
+     "name": "Rock",
+     "qty": 3
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "LAW",
+     "qty": 2
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Throw. Knife",
+     "qty": 1
+    },
+    {
+     "name": "Machete",
+     "qty": 1
+    },
+    {
+     "name": "5.45x39mm RPK-Mag HP",
+     "qty": 1
+    },
+    {
+     "name": "RPK",
+     "qty": 1
+    },
+    {
+     "name": "Letter Opener",
+     "qty": 1
+    },
+    {
+     "name": ".45 SMG Mag HP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G1": {
-   "partial": true
+   "count": 34,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "T-Shirt",
+     "qty": 2
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 2
+    },
+    {
+     "name": "Hat",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "7.62x51mm Bullets 5 AP",
+     "qty": 2
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Tw. Pants",
+     "qty": 1
+    },
+    {
+     "name": "Kvlr Leather",
+     "qty": 1
+    },
+    {
+     "name": "Balaclava",
+     "qty": 1
+    },
+    {
+     "name": "U-BDU Pants",
+     "qty": 1
+    },
+    {
+     "name": "U-BDU Jacket",
+     "qty": 1
+    },
+    {
+     "name": "C-18 Dyn. Helmet",
+     "qty": 1
+    },
+    {
+     "name": "C-18 Dyn. Vest",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G12": {
-   "partial": true
+   "count": 12,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 2
+    },
+    {
+     "name": "LAW",
+     "qty": 1
+    },
+    {
+     "name": "AKMS",
+     "qty": 1
+    },
+    {
+     "name": "Coat",
+     "qty": 1
+    },
+    {
+     "name": "Hat",
+     "qty": 1
+    },
+    {
+     "name": "7.62x51mm Box C",
+     "qty": 1
+    },
+    {
+     "name": ".45 ACP Box AP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G13_B2": {
    "count": 8,
@@ -4735,7 +6636,8 @@
      "name": "Kevlar Helmet",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "G13_B3": {
    "count": 9,
@@ -4769,13 +6671,106 @@
      "name": "9x19mm SMG Mag AP",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "G16": {
-   "partial": true
+   "count": 12,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 3
+    },
+    {
+     "name": "Rock",
+     "qty": 3
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "FAL OSW",
+     "qty": 1
+    },
+    {
+     "name": "MP5KA4",
+     "qty": 1
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G2": {
-   "partial": true
+   "count": 38,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mortar Shell",
+     "qty": 5
+    },
+    {
+     "name": "40mm HE",
+     "qty": 5
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 3
+    },
+    {
+     "name": "40mm Smoke",
+     "qty": 3
+    },
+    {
+     "name": "40mm Tear Gas",
+     "qty": 3
+    },
+    {
+     "name": "Mortar",
+     "qty": 2
+    },
+    {
+     "name": "Talon",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "GM-94",
+     "qty": 1
+    },
+    {
+     "name": "M203PI",
+     "qty": 1
+    },
+    {
+     "name": "HK 79 Launcher",
+     "qty": 1
+    },
+    {
+     "name": "FN EGLM",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G4_B3": {
    "count": 25,
@@ -4821,43 +6816,477 @@
      "name": "Med Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "G5": {
-   "partial": true
-  },
-  "G6": {
-   "partial": true
+   "count": 10,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mine",
+     "qty": 3
+    },
+    {
+     "name": "Molotov",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "S&amp;O Shorty",
+     "qty": 1
+    },
+    {
+     "name": "Shaped Charge",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G7": {
-   "partial": true
+   "count": 2,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Gold",
+     "qty": 1
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G8": {
-   "partial": true
+   "count": 25,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "1st Aid Kit",
+     "qty": 3
+    },
+    {
+     "name": ".38 S-Load HP",
+     "qty": 3
+    },
+    {
+     "name": "Throw. Knife",
+     "qty": 3
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "Wallet",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 1
+    },
+    {
+     "name": "7.62x51mm Mag 20 HP",
+     "qty": 1
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 1
+    },
+    {
+     "name": "5.56x45mm Mag 30 HP",
+     "qty": 1
+    },
+    {
+     "name": "Machete",
+     "qty": 1
+    },
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "G9": {
-   "partial": true
+   "count": 55,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Stun Grenade",
+     "qty": 4
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 3
+    },
+    {
+     "name": "5.56x45mm Mag 30 HP",
+     "qty": 3
+    },
+    {
+     "name": "12g Shells 7",
+     "qty": 3
+    },
+    {
+     "name": "Money",
+     "qty": 3
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "40mm Smoke",
+     "qty": 2
+    },
+    {
+     "name": "Kevlar Pants",
+     "qty": 2
+    },
+    {
+     "name": "5.45x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "5.45x39mm Mag 30 HP",
+     "qty": 2
+    },
+    {
+     "name": "Dart",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "M3 Convertible",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm Mag 15",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "H1": {
-   "partial": true
+   "count": 9,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "T-Shirt",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 1
+    },
+    {
+     "name": "Throw. Knife",
+     "qty": 1
+    },
+    {
+     "name": "Hat",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H10": {
-   "partial": true
+   "count": 1,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mustard Gas",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H13": {
-   "partial": true
+   "count": 61,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mk2 Grenade",
+     "qty": 4
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 4
+    },
+    {
+     "name": "Break Light",
+     "qty": 4
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 3
+    },
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 3
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 3
+    },
+    {
+     "name": "Mini Grenade",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Mag 30 HP",
+     "qty": 2
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 2
+    },
+    {
+     "name": "Rocket Rifle",
+     "qty": 1
+    },
+    {
+     "name": ".45 Mag AP",
+     "qty": 1
+    },
+    {
+     "name": ".357 Mag AP",
+     "qty": 1
+    },
+    {
+     "name": "7.62x39mm Mag 10 AP",
+     "qty": 1
+    },
+    {
+     "name": "5.45x39mm Mag 30 HP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H14": {
-   "partial": true
+   "count": 49,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mk2 Grenade",
+     "qty": 3
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "12g Box",
+     "qty": 2
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "Guardian Vest",
+     "qty": 2
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 2
+    },
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Minirockets AP",
+     "qty": 1
+    },
+    {
+     "name": "Minirockets HE",
+     "qty": 1
+    },
+    {
+     "name": "AK-74",
+     "qty": 1
+    },
+    {
+     "name": "5.45x39mm Box HP",
+     "qty": 1
+    },
+    {
+     "name": "5.45x39mm Box T",
+     "qty": 1
+    },
+    {
+     "name": "7.62x39mm Box AP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H16": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "12g Shells 4 BS",
+     "qty": 2
+    },
+    {
+     "name": "Ithaca 37",
+     "qty": 1
+    },
+    {
+     "name": "Hedge Trimmer",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H2": {
-   "partial": true
+   "count": 84,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mini Grenade",
+     "qty": 6
+    },
+    {
+     "name": "Mine",
+     "qty": 5
+    },
+    {
+     "name": "Break Light",
+     "qty": 5
+    },
+    {
+     "name": "LAW",
+     "qty": 4
+    },
+    {
+     "name": "40mm Tear Gas",
+     "qty": 4
+    },
+    {
+     "name": "43mm Illumination",
+     "qty": 4
+    },
+    {
+     "name": "43mm HE",
+     "qty": 4
+    },
+    {
+     "name": "40mm Smoke",
+     "qty": 3
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 3
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 3
+    },
+    {
+     "name": "43mm Stun",
+     "qty": 3
+    },
+    {
+     "name": "43mm Tear Gas",
+     "qty": 3
+    },
+    {
+     "name": "Smoke Shell",
+     "qty": 3
+    },
+    {
+     "name": "9x19mm SMG Mag AP",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "H3": {
-   "partial": true
+   "count": 15,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Gold",
+     "qty": 5
+    },
+    {
+     "name": "TNT",
+     "qty": 2
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Steel Helmet",
+     "qty": 2
+    },
+    {
+     "name": "RDX",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H3_B1": {
    "count": 32,
@@ -4875,7 +7304,8 @@
      "name": "Med Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "H3_B2": {
    "count": 38,
@@ -4885,10 +7315,39 @@
      "name": "Gold",
      "qty": 38
     }
-   ]
+   ],
+   "partial": false
   },
   "H4": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 3
+    },
+    {
+     "name": "S&amp;W M29",
+     "qty": 1
+    },
+    {
+     "name": "Hedge Trimmer",
+     "qty": 1
+    },
+    {
+     "name": "Break Light",
+     "qty": 1
+    },
+    {
+     "name": "94 Trapper",
+     "qty": 1
+    },
+    {
+     "name": "Silver",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H4_B2": {
    "count": 30,
@@ -4898,7 +7357,8 @@
      "name": "Gold",
      "qty": 30
     }
-   ]
+   ],
+   "partial": false
   },
   "H4_B3": {
    "count": 18,
@@ -4952,13 +7412,54 @@
      "name": "M79",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "H6": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Med Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H8": {
-   "partial": true
+   "count": 18,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 5
+    },
+    {
+     "name": "TNT",
+     "qty": 4
+    },
+    {
+     "name": "Steel Helmet",
+     "qty": 3
+    },
+    {
+     "name": "Silver",
+     "qty": 3
+    },
+    {
+     "name": "RDX",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "H8_B1": {
    "count": 35,
@@ -4976,7 +7477,8 @@
      "name": "TNT",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "H8_B2": {
    "count": 11,
@@ -5006,7 +7508,8 @@
      "name": "Med Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "H8_B3": {
    "count": 17,
@@ -5044,7 +7547,8 @@
      "name": "Spectra Helmet",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "H9_B1": {
    "count": 46,
@@ -5054,7 +7558,8 @@
      "name": "Silver",
      "qty": 46
     }
-   ]
+   ],
+   "partial": false
   },
   "H9_B2": {
    "count": 14,
@@ -5088,22 +7593,191 @@
      "name": "M79",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "I1": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 5
+    },
+    {
+     "name": "P90",
+     "qty": 1
+    },
+    {
+     "name": "5.7mm Mag 50 AP",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I11": {
-   "partial": true
+   "count": 5,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "T-Shirt",
+     "qty": 2
+    },
+    {
+     "name": "Leather Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Beretta 96FS",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I12": {
-   "partial": true
+   "count": 1,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I13": {
-   "partial": true
+   "count": 23,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 3
+    },
+    {
+     "name": "Kevlar Pants",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 2
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "AUG-A2",
+     "qty": 1
+    },
+    {
+     "name": "M79",
+     "qty": 1
+    },
+    {
+     "name": "40mm Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "Beretta 92F",
+     "qty": 1
+    },
+    {
+     "name": "W-BDU Jacket",
+     "qty": 1
+    },
+    {
+     "name": "AK-74",
+     "qty": 1
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "AK-47",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I14": {
-   "partial": true
+   "count": 56,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "TNT",
+     "qty": 7
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 4
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 3
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 3
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 3
+    },
+    {
+     "name": ".38 S-Load HP",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm SMG Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "12g Shells 7 RS",
+     "qty": 2
+    },
+    {
+     "name": "7.62x25mm Mag AP",
+     "qty": 2
+    },
+    {
+     "name": ".44 S-Load",
+     "qty": 2
+    },
+    {
+     "name": "12g Shells 4 BS",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I14_B1": {
    "count": 41,
@@ -5117,16 +7791,58 @@
      "name": "Break Light",
      "qty": 3
     }
-   ]
-  },
-  "I15": {
-   "partial": true
+   ],
+   "partial": false
   },
   "I16": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Spectra Pants",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Mini-14",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "CAWS",
+     "qty": 1
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 1
+    },
+    {
+     "name": "TAR 21",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I3": {
-   "partial": true
+   "count": 4,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 4
+    }
+   ],
+   "partial": false
   },
   "I3_B1": {
    "count": 29,
@@ -5140,7 +7856,8 @@
      "name": "Break Light",
      "qty": 2
     }
-   ]
+   ],
+   "partial": false
   },
   "I3_B2": {
    "count": 30,
@@ -5166,16 +7883,101 @@
      "name": "C1",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "I4": {
-   "partial": true
+   "count": 3,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "12g Shells 7 BS",
+     "qty": 3
+    }
+   ],
+   "partial": false
   },
   "I6": {
-   "partial": true
+   "count": 3,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "I8": {
-   "partial": true
+   "count": 47,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Strela-2 Missile",
+     "qty": 4
+    },
+    {
+     "name": "Break Light",
+     "qty": 3
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Dyn. Helmet",
+     "qty": 2
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 2
+    },
+    {
+     "name": "RPG-26",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "43mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "40mm VOG-25",
+     "qty": 2
+    },
+    {
+     "name": "Glock 19",
+     "qty": 2
+    },
+    {
+     "name": "Flare",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "I8_B3": {
    "count": 11,
@@ -5205,7 +8007,8 @@
      "name": "1st Aid Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "J13_B2": {
    "count": 23,
@@ -5251,7 +8054,8 @@
      "name": "Med Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "J13_B3": {
    "count": 26,
@@ -5293,10 +8097,27 @@
      "name": "Guardian Vest",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "J14": {
-   "partial": true
+   "count": 3,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 1
+    },
+    {
+     "name": "Rock",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "J14_B1": {
    "count": 35,
@@ -5306,7 +8127,8 @@
      "name": "Silver",
      "qty": 35
     }
-   ]
+   ],
+   "partial": false
   },
   "J14_B2": {
    "count": 17,
@@ -5352,19 +8174,23 @@
      "name": "7.62x39mm Mag 10 HP",
      "qty": 1
     }
-   ]
-  },
-  "J4": {
-   "partial": true
-  },
-  "J5": {
-   "partial": true
-  },
-  "J7": {
-   "partial": true
+   ],
+   "partial": false
   },
   "J8": {
-   "partial": true
+   "count": 2,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "J8_B3": {
    "count": 8,
@@ -5398,19 +8224,145 @@
      "name": "9x19mm Mag 15 HP",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "J9": {
-   "partial": true
+   "count": 21,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Spectra Vest",
+     "qty": 2
+    },
+    {
+     "name": "Kevlar Pants",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Zylon Pants",
+     "qty": 1
+    },
+    {
+     "name": "Dyn. Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Dyn. Vest",
+     "qty": 1
+    },
+    {
+     "name": "Zylon Vest",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Desert Eagle .44",
+     "qty": 1
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "Black Cap",
+     "qty": 1
+    },
+    {
+     "name": "Guardian Vest",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "J9_B1": {
-   "partial": true
-  },
-  "K12": {
-   "partial": true
+   "count": 40,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Dart",
+     "qty": 3
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 3
+    },
+    {
+     "name": "RDX",
+     "qty": 2
+    },
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": ".50 Beowulf Mag 7 HP",
+     "qty": 2
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 2
+    },
+    {
+     "name": "5.45x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": ".45 SMG Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "10mm SMG Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "Machete",
+     "qty": 1
+    },
+    {
+     "name": "Dart Gun",
+     "qty": 1
+    },
+    {
+     "name": "Bandages",
+     "qty": 1
+    },
+    {
+     "name": "CAWS",
+     "qty": 1
+    },
+    {
+     "name": "CAWS Mag BS",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K13": {
-   "partial": true
+   "count": 4,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 4
+    }
+   ],
+   "partial": false
   },
   "K13_B3": {
    "count": 8,
@@ -5436,142 +8388,1440 @@
      "name": "Med Kit",
      "qty": 1
     }
-   ]
+   ],
+   "partial": false
   },
   "K14": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "7.62x51mm Bullets 5 HP",
+     "qty": 2
+    },
+    {
+     "name": "Kvlr Leather",
+     "qty": 1
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "M24",
+     "qty": 1
+    },
+    {
+     "name": "Silver",
+     "qty": 1
+    },
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K4": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "5.7mm Mag 20 HP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Five-seveN",
+     "qty": 1
+    },
+    {
+     "name": "Exacto Knife",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K4_B1": {
-   "partial": true
+   "count": 77,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Minirockets AP",
+     "qty": 10
+    },
+    {
+     "name": "Minirockets HE",
+     "qty": 8
+    },
+    {
+     "name": "Minirockets HEAP",
+     "qty": 7
+    },
+    {
+     "name": "Rocket Rifle",
+     "qty": 6
+    },
+    {
+     "name": "5.7mm Mag 50 AP",
+     "qty": 6
+    },
+    {
+     "name": ".50 BMG Mag AP",
+     "qty": 4
+    },
+    {
+     "name": "12.7mm Subsonic AP",
+     "qty": 4
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 3
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 3
+    },
+    {
+     "name": "40mm Thermobaric",
+     "qty": 3
+    },
+    {
+     "name": "5.7mm Mag 50 HP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K6": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "Flashbang",
+     "qty": 1
+    },
+    {
+     "name": "Leather Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Sawed-Off",
+     "qty": 1
+    },
+    {
+     "name": "12g Box",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K7": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "AK-47",
+     "qty": 2
+    },
+    {
+     "name": "GM-94",
+     "qty": 1
+    },
+    {
+     "name": "AKMSU",
+     "qty": 1
+    },
+    {
+     "name": "AEK-971",
+     "qty": 1
+    },
+    {
+     "name": "AK-108",
+     "qty": 1
+    },
+    {
+     "name": "AKS-47",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K7_B1": {
-   "partial": true
+   "count": 26,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "SG552",
+     "qty": 2
+    },
+    {
+     "name": "SPAS-12",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "P90",
+     "qty": 1
+    },
+    {
+     "name": "C7A2",
+     "qty": 1
+    },
+    {
+     "name": "MP5N",
+     "qty": 1
+    },
+    {
+     "name": "MP5A4",
+     "qty": 1
+    },
+    {
+     "name": "AK-47",
+     "qty": 1
+    },
+    {
+     "name": "M16A4",
+     "qty": 1
+    },
+    {
+     "name": "DSR-1",
+     "qty": 1
+    },
+    {
+     "name": "SAF Silenciada",
+     "qty": 1
+    },
+    {
+     "name": "MP5/10A3",
+     "qty": 1
+    },
+    {
+     "name": "USAS-12",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "K8": {
-   "partial": true
-  },
-  "K9": {
-   "partial": true
+   "count": 6,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 6
+    }
+   ],
+   "partial": false
   },
   "L10": {
-   "partial": true
+   "count": 3,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L11": {
-   "partial": true
+   "count": 19,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "5.56x45mm Mag 30 AP",
+     "qty": 4
+    },
+    {
+     "name": "Money",
+     "qty": 2
+    },
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 2
+    },
+    {
+     "name": "Shaped Charge",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 1
+    },
+    {
+     "name": "40mm Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 1
+    },
+    {
+     "name": "Uniform",
+     "qty": 1
+    },
+    {
+     "name": "Hat",
+     "qty": 1
+    },
+    {
+     "name": "Army Cap",
+     "qty": 1
+    },
+    {
+     "name": "U-BDU Jacket",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L12": {
-   "partial": true
+   "count": 11,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Med Kit",
+     "qty": 5
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 3
+    },
+    {
+     "name": "MAC-10",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L13": {
-   "partial": true
+   "count": 10,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 10
+    }
+   ],
+   "partial": false
   },
   "L15": {
-   "partial": true
+   "count": 4,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "CAWS Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "CAWS",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L5": {
-   "partial": true
+   "count": 5,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "40mm Thermobaric",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "C4",
+     "qty": 1
+    },
+    {
+     "name": "KAC M203",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L6": {
-   "partial": true
+   "count": 5,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "M1919 A6",
+     "qty": 1
+    },
+    {
+     "name": "7.62x51mm Belt AP",
+     "qty": 1
+    },
+    {
+     "name": "Mustard Gas Shell",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L7": {
-   "partial": true
+   "count": 3,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mortar Shell",
+     "qty": 2
+    },
+    {
+     "name": "Commando Mortar",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "L8": {
-   "partial": true
-  },
-  "M15": {
-   "partial": true
-  },
-  "M15_B1": {
-   "partial": true
+   "count": 5,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 5
+    }
+   ],
+   "partial": false
   },
   "M15_B2": {
-   "partial": true
-  },
-  "M2": {
-   "partial": true
+   "count": 72,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "40mm Thermobaric",
+     "qty": 4
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 2
+    },
+    {
+     "name": "9x19mm SMG Mag AP C",
+     "qty": 2
+    },
+    {
+     "name": "Hat",
+     "qty": 2
+    },
+    {
+     "name": ".357 S-Load AP",
+     "qty": 2
+    },
+    {
+     "name": ".454 C S-Load HP",
+     "qty": 2
+    },
+    {
+     "name": ".38 S-Load HPS",
+     "qty": 2
+    },
+    {
+     "name": "10mm Mag AP",
+     "qty": 2
+    },
+    {
+     "name": ".44 Mag G",
+     "qty": 2
+    },
+    {
+     "name": ".40 Mag M",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 2
+    },
+    {
+     "name": "Mustard Gas Shell",
+     "qty": 2
+    },
+    {
+     "name": "40mm VOG-25",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "M3": {
-   "partial": true
+   "count": 8,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mine",
+     "qty": 3
+    },
+    {
+     "name": "7.62x54R Mag 10 AP",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Belt AP",
+     "qty": 1
+    },
+    {
+     "name": "RPG-26",
+     "qty": 1
+    },
+    {
+     "name": "RPG-27",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "M4": {
-   "partial": true
-  },
-  "M5": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Minimi",
+     "qty": 1
+    },
+    {
+     "name": "5.56x45mm Belt T",
+     "qty": 1
+    },
+    {
+     "name": "RPO-M",
+     "qty": 1
+    },
+    {
+     "name": "GM-94",
+     "qty": 1
+    },
+    {
+     "name": "43mm Mustard Gas",
+     "qty": 1
+    },
+    {
+     "name": "43mm Tear Gas",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "M6": {
-   "partial": true
+   "count": 4,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "OG-7V Rocket",
+     "qty": 2
+    },
+    {
+     "name": "RPG-7",
+     "qty": 1
+    },
+    {
+     "name": "HK UCP",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "M9": {
-   "partial": true
+   "count": 4,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 4
+    }
+   ],
+   "partial": false
   },
   "N13": {
-   "partial": true
+   "count": 6,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Rock",
+     "qty": 3
+    },
+    {
+     "name": "6.8x43mm SPC Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "M4A3",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "N14": {
-   "partial": true
+   "count": 15,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Shuriken",
+     "qty": 4
+    },
+    {
+     "name": "USAS-12",
+     "qty": 1
+    },
+    {
+     "name": "12g Drum 20 BS",
+     "qty": 1
+    },
+    {
+     "name": "Wallet",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 1
+    },
+    {
+     "name": "Katana",
+     "qty": 1
+    },
+    {
+     "name": "Elite 10mm",
+     "qty": 1
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "T-Shirt",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Scuba Fins",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "N15": {
-   "partial": true
+   "count": 12,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "4.6x30mm PDW Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "Ceramic Plates",
+     "qty": 1
+    },
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Ghillie Suit",
+     "qty": 1
+    },
+    {
+     "name": "Ghillie Pants",
+     "qty": 1
+    },
+    {
+     "name": "Exacto Knife",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Agram 2000",
+     "qty": 1
+    },
+    {
+     "name": "MP7A1",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "N16": {
-   "partial": true
+   "count": 3,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Boonie Hat",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Gold",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "N3": {
-   "partial": true
+   "count": 62,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Break Light",
+     "qty": 8
+    },
+    {
+     "name": "LAW",
+     "qty": 4
+    },
+    {
+     "name": "43mm HE",
+     "qty": 4
+    },
+    {
+     "name": "40mm Thermobaric",
+     "qty": 4
+    },
+    {
+     "name": "12.7mm Subsonic AP",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 2
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 2
+    },
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "4.7mm Mag 20 AP",
+     "qty": 2
+    },
+    {
+     "name": "Mortar",
+     "qty": 1
+    },
+    {
+     "name": "AWM",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "N4": {
-   "partial": true
+   "count": 53,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "RPG-26",
+     "qty": 4
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 3
+    },
+    {
+     "name": "7.62x51mm Mag 10 HP C",
+     "qty": 3
+    },
+    {
+     "name": "RPG-27",
+     "qty": 2
+    },
+    {
+     "name": "OG-7V Rocket",
+     "qty": 2
+    },
+    {
+     "name": "6.8x43mm SPC Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "7.62x51mm Belt AP",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Belt AP",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 2
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 2
+    },
+    {
+     "name": "LAW",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 2
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "N5": {
-   "partial": true
+   "count": 27,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Mortar Shell",
+     "qty": 6
+    },
+    {
+     "name": "Dart",
+     "qty": 6
+    },
+    {
+     "name": "LAW",
+     "qty": 4
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 2
+    },
+    {
+     "name": "40mm HE",
+     "qty": 2
+    },
+    {
+     "name": "Minirockets HEAP",
+     "qty": 2
+    },
+    {
+     "name": "HK 21E",
+     "qty": 1
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Dart Gun",
+     "qty": 1
+    },
+    {
+     "name": "Mortar",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "N6": {
-   "partial": true
+   "count": 9,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "OG-7V Rocket",
+     "qty": 3
+    },
+    {
+     "name": "Mortar Shell",
+     "qty": 3
+    },
+    {
+     "name": "Mine",
+     "qty": 3
+    }
+   ],
+   "partial": false
   },
   "N7": {
-   "partial": true
+   "count": 55,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "LAW",
+     "qty": 22
+    },
+    {
+     "name": "Dart",
+     "qty": 4
+    },
+    {
+     "name": "43mm HE",
+     "qty": 4
+    },
+    {
+     "name": "40mm HE",
+     "qty": 3
+    },
+    {
+     "name": "Illumination Shell",
+     "qty": 3
+    },
+    {
+     "name": "Break Light",
+     "qty": 2
+    },
+    {
+     "name": "7.62x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "40mm VOG-25P",
+     "qty": 2
+    },
+    {
+     "name": "Smoke Shell",
+     "qty": 2
+    },
+    {
+     "name": "TNT",
+     "qty": 1
+    },
+    {
+     "name": "Dart Gun",
+     "qty": 1
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 1
+    },
+    {
+     "name": "Knife",
+     "qty": 1
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "O3": {
-   "partial": true
+   "count": 7,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Hat",
+     "qty": 2
+    },
+    {
+     "name": "Money",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Leather Jacket",
+     "qty": 1
+    },
+    {
+     "name": "Coat",
+     "qty": 1
+    },
+    {
+     "name": "T-Shirt",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "O3_B1": {
-   "partial": true
+   "count": 13,
+   "weapons": true,
+   "notable": [
+    {
+     "name": ".50 BMG Mag, 5 AP",
+     "qty": 2
+    },
+    {
+     "name": "12.7x108mm Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "40mm Thermobaric",
+     "qty": 2
+    },
+    {
+     "name": "5.56x45mm Belt T",
+     "qty": 1
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 1
+    },
+    {
+     "name": "Med Kit",
+     "qty": 1
+    },
+    {
+     "name": "Bloody Knife",
+     "qty": 1
+    },
+    {
+     "name": "AN-94",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "O4": {
-   "partial": true
+   "count": 10,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 4
+    },
+    {
+     "name": ".338 Lapua Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "AWM",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "O9": {
-   "partial": true
+   "count": 2,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Scuba Fins",
+     "qty": 1
+    },
+    {
+     "name": "Machete",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "P1": {
-   "partial": true
+   "count": 2,
+   "weapons": false,
+   "notable": [
+    {
+     "name": "Med Kit",
+     "qty": 2
+    }
+   ],
+   "partial": false
   },
   "P15": {
-   "partial": true
+   "count": 28,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "40mm HE",
+     "qty": 4
+    },
+    {
+     "name": "Break Light",
+     "qty": 3
+    },
+    {
+     "name": "40mm Stun",
+     "qty": 2
+    },
+    {
+     "name": "Mk2 Grenade",
+     "qty": 2
+    },
+    {
+     "name": "Stun Grenade",
+     "qty": 2
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 2
+    },
+    {
+     "name": "7.62x51mm Mag 20 HP",
+     "qty": 2
+    },
+    {
+     "name": "4.7mm Mag 45 AP",
+     "qty": 2
+    },
+    {
+     "name": "5.7mm Mag 50 AP",
+     "qty": 2
+    },
+    {
+     "name": "Dyn. Vest",
+     "qty": 1
+    },
+    {
+     "name": "Hat",
+     "qty": 1
+    },
+    {
+     "name": "MGL-140",
+     "qty": 1
+    },
+    {
+     "name": "Galatz",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "P1_B1": {
-   "partial": true
+   "count": 42,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 8
+    },
+    {
+     "name": "Dart",
+     "qty": 6
+    },
+    {
+     "name": "4.7mm Mag 20 AP",
+     "qty": 4
+    },
+    {
+     "name": "Med Kit",
+     "qty": 4
+    },
+    {
+     "name": "Wallet",
+     "qty": 3
+    },
+    {
+     "name": "Dart Gun",
+     "qty": 2
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    },
+    {
+     "name": "Pepper Spray",
+     "qty": 1
+    },
+    {
+     "name": "Letter Opener",
+     "qty": 1
+    },
+    {
+     "name": "G11 PDW",
+     "qty": 1
+    },
+    {
+     "name": "MG43",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Pants",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "P1_B2": {
-   "partial": true
+   "count": 19,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 8
+    },
+    {
+     "name": "Spec-18 Vest",
+     "qty": 2
+    },
+    {
+     "name": "Spec-18 Pants",
+     "qty": 2
+    },
+    {
+     "name": "Spec-18 Helmet",
+     "qty": 2
+    },
+    {
+     "name": "G11",
+     "qty": 1
+    },
+    {
+     "name": "CAWS",
+     "qty": 1
+    },
+    {
+     "name": "M82A2",
+     "qty": 1
+    },
+    {
+     "name": "Jackhammer",
+     "qty": 1
+    },
+    {
+     "name": "Commando Mortar",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "P3": {
-   "partial": true
+   "count": 16,
+   "weapons": true,
+   "notable": [
+    {
+     "name": ".50 BMG Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "7.62x51mm Mag 20 AP",
+     "qty": 2
+    },
+    {
+     "name": "40mm Thermobaric",
+     "qty": 2
+    },
+    {
+     "name": "Med Kit",
+     "qty": 2
+    },
+    {
+     "name": "LAW",
+     "qty": 1
+    },
+    {
+     "name": "M82A2",
+     "qty": 1
+    },
+    {
+     "name": "Spec-18 Helmet",
+     "qty": 1
+    },
+    {
+     "name": "Spec-18 Vest",
+     "qty": 1
+    },
+    {
+     "name": "Spec-18 Pants",
+     "qty": 1
+    },
+    {
+     "name": "Shaped Charge",
+     "qty": 1
+    },
+    {
+     "name": "Five-seveN",
+     "qty": 1
+    },
+    {
+     "name": "1st Aid Kit",
+     "qty": 1
+    }
+   ],
+   "partial": false
   },
   "P3_B1": {
-   "partial": true
+   "count": 41,
+   "weapons": true,
+   "notable": [
+    {
+     "name": "Money",
+     "qty": 10
+    },
+    {
+     "name": "Minirockets HEAP",
+     "qty": 3
+    },
+    {
+     "name": "Spectra Vest",
+     "qty": 2
+    },
+    {
+     "name": "12.7x108mm Mag AP",
+     "qty": 2
+    },
+    {
+     "name": "5.45x39mm Mag 30 AP",
+     "qty": 2
+    },
+    {
+     "name": "Mustard Gas",
+     "qty": 2
+    },
+    {
+     "name": "Tear Gas",
+     "qty": 2
+    },
+    {
+     "name": "Mustard Gas Shell",
+     "qty": 2
+    },
+    {
+     "name": "Utility Knife",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Pants",
+     "qty": 1
+    },
+    {
+     "name": "Spectra Helmet",
+     "qty": 1
+    },
+    {
+     "name": "AN-94",
+     "qty": 1
+    },
+    {
+     "name": "MG43",
+     "qty": 1
+    },
+    {
+     "name": "KSVK",
+     "qty": 1
+    }
+   ],
+   "partial": false
   }
  }
 }
